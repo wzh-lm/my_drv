@@ -1,0 +1,1 @@
+cmd_/work/wzh/second_term/lesson-16/s3c_ts_drv.ko := arm-linux-ld -EL  -r -o /work/wzh/second_term/lesson-16/s3c_ts_drv.ko /work/wzh/second_term/lesson-16/s3c_ts_drv.o /work/wzh/second_term/lesson-16/s3c_ts_drv.mod.o

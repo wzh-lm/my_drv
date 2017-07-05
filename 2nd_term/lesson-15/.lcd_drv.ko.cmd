@@ -1,0 +1,1 @@
+cmd_/work/wzh/second_term/lesson-15/lcd_drv.ko := arm-linux-ld -EL  -r -o /work/wzh/second_term/lesson-15/lcd_drv.ko /work/wzh/second_term/lesson-15/lcd_drv.o /work/wzh/second_term/lesson-15/lcd_drv.mod.o

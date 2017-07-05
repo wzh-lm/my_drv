@@ -1,0 +1,1 @@
+cmd_/work/wzh/second_term/lesson-14/led_dev.ko := arm-linux-ld -EL  -r -o /work/wzh/second_term/lesson-14/led_dev.ko /work/wzh/second_term/lesson-14/led_dev.o /work/wzh/second_term/lesson-14/led_dev.mod.o
